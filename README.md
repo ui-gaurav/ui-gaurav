@@ -1,4 +1,14 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=slice&color=0:1c1c1c,100:4b5563&height=200&section=header&text=Gaurav%20Arya&fontSize=42&fontAlignY=45&desc=Crafting%20Digital%20Experiences&descAlignY=68&descAlign=50&theme=dark" alt="Banner" width="100%" /></p><br># About Me<br><br>* Education: Computer Science and Design at MITS Gwalior<br>* Frontend: Next.js • TypeScript • Tailwind CSS • React<br>* Languages: C++ • Python • JavaScript<br>* Workflows: AI-Native Engineering (Claude Code • GitHub Copilot)<br>* Focus: Turning complex logic into smooth, interactive digital experiences.<br><br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,100:4b5563&height=200&section=header&text=Gaurav%20Arya&fontSize=42&fontAlignY=45&desc=Crafting%20Digital%20Experiences&descAlignY=68&descAlign=50&theme=dark" alt="Banner" width="100%" />
+</p>
+
+# About Me
+
+* Education: Computer Science and Design at MITS Gwalior
+* Frontend: Next.js • TypeScript • Tailwind CSS • React
+* Languages: C++ • Python • JavaScript
+* Workflows: AI-Native Engineering (Claude Code • GitHub Copilot)
+* Focus: Turning complex logic into smooth, interactive digital experiences.
 
 # Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ui_gaurav_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaurav-arya-763513373/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/SatisfactionBorn320) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GauravArya_me) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itzgaurav57@gmail.com) 
