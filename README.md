@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,100:4b5563&height=200&section=header&text=Gaurav%20Arya&fontSize=42&fontAlignY=45&desc=Crafting%20Digital%20Experiences&descAlignY=68&descAlign=50&theme=dark" alt="Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1a12,100:d97706&height=200&section=header&text=Gaurav%20Arya&fontSize=42&fontAlignY=45&desc=Crafting%20Digital%20Experiences&descAlignY=68&descAlign=50&theme=dark" alt="Banner" width="100%" />
 </p>
 
 # About Me
