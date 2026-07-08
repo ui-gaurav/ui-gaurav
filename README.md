@@ -1,4 +1,3 @@
-# 💫 About Me:
 <p align="center"><br>  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,100:111827&height=220&section=header&text=Gaurav%20Arya&fontSize=42&fontAlignY=42&desc=Crafting%20Digital%20Experiences&descAlignY=65&descAlign=50&theme=dark" alt="Banner" width="100%" /><br></p><br><br>About Me<br><br>* Education: Computer Science and Design at MITS Gwalior<br>* Frontend: Next.js • TypeScript • Tailwind CSS • React<br>* Languages: C++ • Python • JavaScript<br>* Workflows: AI-Native Engineering (Claude Code • GitHub Copilot)<br>* Focus: Turning complex logic into smooth, interactive digital experiences.
 
 
